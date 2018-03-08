@@ -1,4 +1,4 @@
-<script>
+<script type="text/javascript">
         $(function () {
             var $window = $(window),
                 $body = $('body'),
